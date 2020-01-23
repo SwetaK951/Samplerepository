@@ -1,6 +1,6 @@
 // Find missing number in the given array.
 
-
+//changed in branch1
 public class Interview1{
 
     public  int findMissingNumber(int[] array){
