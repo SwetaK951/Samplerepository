@@ -20,10 +20,9 @@ public class Interview1{
                         start = mid+1;
                 } 
             }
-            else{
-                end = mid-1;
-            }
-        }
+            else {
+                end = mid - 1;
+            }}
         return -1;
     }
     public static void main(String[] args){
