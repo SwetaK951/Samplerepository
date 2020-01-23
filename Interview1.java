@@ -26,7 +26,6 @@ public class Interview1{
         }
         return -1;
     }
-
     public static void main(String[] args){
         Interview1 obj = new Interview1();
         int[] arr = {3,4,5,6,7,8,10};
